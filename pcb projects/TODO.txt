@@ -1,1 +1,2 @@
-dodac footprint na zegar, niekoniecznie do montowania
++ dodać footprint na zegar, niekoniecznie do montowania
+stabilizator - zmienić footprint
