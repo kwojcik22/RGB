@@ -153,7 +153,7 @@
 	(footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
 		(layer "F.Cu")
 		(uuid "013892aa-95d2-4e99-af93-f2b6defb5142")
-		(at -1.5 -17.4375 -90)
+		(at -0.5 -11.8725 -90)
 		(descr "Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC-7352 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C2"
@@ -566,7 +566,7 @@
 	(footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "0a689a9f-ebc7-461b-bfb5-912c1f97dc93")
-		(at 7.5 -17.5625 -90)
+		(at 9.5 -16.4375 -90)
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C9"
@@ -2069,7 +2069,7 @@
 	(footprint "Connector_USB:USB_Micro-AB_Molex_47590-0001"
 		(layer "F.Cu")
 		(uuid "3f0ff32a-2467-4e5a-be32-906a0e166850")
-		(at -13.85 -13 -90)
+		(at -13.29 -13 -90)
 		(descr "Micro USB AB receptacle, right-angle inverted (https://www.molex.com/pdm_docs/sd/475900001_sd.pdf)")
 		(tags "Micro AB USB SMD")
 		(property "Reference" "CN1"
@@ -4080,7 +4080,7 @@
 	(footprint "Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032"
 		(layer "F.Cu")
 		(uuid "9ed2df13-287f-49f0-89ef-2342990dc04d")
-		(at 19 -16.357454 -90)
+		(at 19 -17.357454 -90)
 		(descr "CR2032 battery holder https://www.lcsc.com/datasheet/lcsc_datasheet_2203021630_MYOUNG-BS-07-A1BJ001_C2979167.pdf")
 		(tags "CR2032 BR2032 BatteryHolder Battery")
 		(property "Reference" "BT1"
@@ -5598,7 +5598,7 @@
 	(footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder"
 		(layer "F.Cu")
 		(uuid "c1eb8f63-a17b-40df-aa30-370bb646840a")
-		(at -1.5 -10.5625 -90)
+		(at -0.5 -17.8725 -90)
 		(descr "Tantalum Capacitor SMD Kemet-B (3528-21 Metric), IPC-7352 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C3"
@@ -6018,7 +6018,7 @@
 	(footprint "Package_TO_SOT_THT:TO-220-3_Vertical"
 		(layer "F.Cu")
 		(uuid "ebfc7ab4-f54f-4981-86d1-be3ed2488e89")
-		(at -5 -13 90)
+		(at -5 -10.96 90)
 		(descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf, generated with kicad-footprint-generator TO_SOT_THT_generate.py")
 		(tags "TO-220-3 Vertical RM 2.54mm")
 		(property "Reference" "U3"
@@ -6654,7 +6654,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "fee2740c-f787-4158-9c8d-ff5d7461a5d8")
-		(at 1.725 -18.5)
+		(at 3.725 -15.275)
 		(descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x02 2.54mm double row")
 		(property "Reference" "J1"
