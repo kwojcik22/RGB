@@ -2,4 +2,6 @@
 
 - [x] Dodać footprint na zegar, niekoniecznie do montowania
 - [x] Stabilizator – zmienić footprint – **anulowane**
-- [ ] Położenie ścieżek
+- [x] Położenie ścieżek
+- [x] Rozmiar ścieżek
+- [ ] poligon GND
