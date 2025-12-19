@@ -5,3 +5,4 @@
 - [x] Położenie ścieżek
 - [x] Rozmiar ścieżek
 - [ ] poligon GND
+- [ ] zmienic symbol diody na schemacie
