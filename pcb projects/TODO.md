@@ -1,8 +1,7 @@
 # TODO
 
-- [x] Dodać footprint na zegar, niekoniecznie do montowania
-- [x] Stabilizator – zmienić footprint – **anulowane**
-- [x] Położenie ścieżek
-- [x] Rozmiar ścieżek
 - [ ] poligon GND
-- [ ] zmienic symbol diody na schemacie
+- [X] zmienic symbol diody na schemacie
+- [ ] DRC
+- [ ] aktualizacja footprint Lib 
+- [ ] uzupełnić DS w BOM

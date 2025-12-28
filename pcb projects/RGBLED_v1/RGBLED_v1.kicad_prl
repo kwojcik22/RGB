@@ -4,7 +4,9 @@
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "GND"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -78,16 +80,16 @@
       9
     ],
     "col_widths": [
-      222,
-      207,
-      137,
-      92,
-      137,
-      137,
-      137,
-      98,
-      137,
-      137
+      148,
+      138,
+      91,
+      61,
+      91,
+      91,
+      91,
+      65,
+      91,
+      622
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
