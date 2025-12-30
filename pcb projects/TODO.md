@@ -1,7 +1,7 @@
 # TODO
 
-- [ ] poligon GND
+- [x] poligon GND
 - [X] zmienic symbol diody na schemacie
-- [ ] DRC
-- [ ] aktualizacja footprint Lib 
+- [x] DRC
+- [x] aktualizacja footprint Lib 
 - [ ] uzupełnić DS w BOM
