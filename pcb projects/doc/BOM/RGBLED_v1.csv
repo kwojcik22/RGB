@@ -1,19 +1,19 @@
-Reference,Value,Datasheet,Footprint,Qty,DNP
-BT1,Battery_Cell,~,Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032,1,
-C2,100uF,~,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder,1,
-C3,10uF,~,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder,1,
-"C4,C5,C6,C7,C12",100nF,~,"Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder",5,
-C9,22nF,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,
-"C10,C11",4.3pF,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2,
-CN1,USB_B_Micro,~,Connector_USB:USB_Micro-AB_Molex_47590-0001,1,
-CN2,Conn_01x03_Pin,~,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,
-D1,LED_ARGB,https://www.tme.eu/pl/details/ll-509rgbc2e-006/diody-led-tht-okragle/luckylight/?brutto=1&currency=PLN&utm_source=google&utm_medium=cpc&utm_campaign=Optoelektronika%20PL%20%5BPMAX%5D%20CSS&&utm_content=&gad_source=1&gad_campaignid=22845865138&gbraid=0AAAAADyylhKfZbdMQjSg9bGlHb609TFUP&gclid=Cj0KCQiAx8PKBhD1ARIsAKsmGbevXOPSiyEngd4R2hqyLzD2ELAt1qVyC5ea3TdQWSLy1bcrgshNYbkaAvg-EALw_wcB,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,
-J1,Conn_02x02_Odd_Even,~,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,1,
-L1,Ferrite,~,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,
-"R1,R3",150,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,
-R2,470,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,
-R4,1k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,
-SW1,SW_MEC_5E,http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371,Button_Switch_SMD:SW_MEC_5GSH9,1,
-U1,STM32F091RBTx,https://www.st.com/resource/en/datasheet/stm32f091rb.pdf,Package_QFP:LQFP-64_10x10mm_P0.5mm,1,
-U3,LM1117T-3.3,http://www.ti.com/lit/ds/symlink/lm1117.pdf,Package_TO_SOT_THT:TO-220-3_Vertical,1,
-Y1,32.768kHz,~,Crystal:Crystal_SMD_HC49-SD_HandSoldering,1,
+Reference,Value,Datasheet,Footprint,Qty,DNP,Bought[Y/N]
+BT1,Battery_Cell,~,Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032,1,,Y
+C2,100uF,~,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder,1,,
+C3,10uF,~,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder,1,,
+"C4,C5,C6,C7,C12",100nF,~,"Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_HandSolder",5,,
+C9,22nF,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1,,
+"C10,C11",4.3pF,~,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2,Y,
+CN1,USB_B_Micro,~,Connector_USB:USB_Micro-AB_Molex_47590-0001,1,,Y
+CN2,Conn_01x03_Pin,koszyk temu,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,,Y
+D1,LED_ARGB,https://www.tme.eu/pl/details/ll-509rgbc2e-006/diody-led-tht-okragle/luckylight/?brutto=1&currency=PLN&utm_source=google&utm_medium=cpc&utm_campaign=Optoelektronika%20PL%20%5BPMAX%5D%20CSS&&utm_content=&gad_source=1&gad_campaignid=22845865138&gbraid=0AAAAADyylhKfZbdMQjSg9bGlHb609TFUP&gclid=Cj0KCQiAx8PKBhD1ARIsAKsmGbevXOPSiyEngd4R2hqyLzD2ELAt1qVyC5ea3TdQWSLy1bcrgshNYbkaAvg-EALw_wcB,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,,
+J1,Conn_02x02_Odd_Even,koszyk temu,Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical,1,,
+L1,Ferrite,value?,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,,
+"R1,R3",150,?,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,,
+R2,470,?,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,
+R4,1k,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,,Y
+SW1,SW_MEC_5E,koszyk temu,Button_Switch_SMD:SW_MEC_5GSH9,1,,Y
+U1,STM32F091RBTx,https://www.tme.eu/pl/details/stm32f091rbt6/mikrokontrolery-st/stmicroelectronics/,Package_QFP:LQFP-64_10x10mm_P0.5mm,1,,
+U3,LM1117T-3.3,~,Package_TO_SOT_THT:TO-220-3_Vertical,1,,Y
+Y1,32.768kHz,~,Crystal:Crystal_SMD_HC49-SD_HandSoldering,1,Y,
